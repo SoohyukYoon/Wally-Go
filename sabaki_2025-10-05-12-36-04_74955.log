@@ -1,0 +1,22 @@
+[2025-10-05 12:36:08.296] <Wally>    (in) : name
+[2025-10-05 12:36:08.298] <Wally>    (in) : version
+[2025-10-05 12:36:08.299] <Wally>    (in) : protocol_version
+[2025-10-05 12:36:08.299] <Wally>    (in) : list_commands
+[2025-10-05 12:36:08.299] <Wally>  (meta) : Engine Started
+[2025-10-05 12:36:08.402] <Wally>   (out) : = Wally
+[2025-10-05 12:36:08.403] <Wally>   (out) : 
+[2025-10-05 12:36:08.403] <Wally>   (out) : = 1.0 
+[2025-10-05 12:36:08.403] <Wally>   (out) : 
+[2025-10-05 12:36:08.403] <Wally>   (out) : = 1
+[2025-10-05 12:36:08.404] <Wally>   (out) : 
+[2025-10-05 12:36:08.404] <Wally>   (out) : = protocol_version
+[2025-10-05 12:36:08.404] <Wally>   (out) : 
+[2025-10-05 12:36:15.807] <Wally>    (in) : komi 6.5
+[2025-10-05 12:36:15.868] <Wally>   (out) : =
+[2025-10-05 12:36:15.868] <Wally>   (out) : 
+[2025-10-05 12:36:15.876] <Wally>    (in) : boardsize 7
+[2025-10-05 12:36:15.885] <Wally>   (out) : ? not supported board size
+[2025-10-05 12:36:15.885] <Wally>   (out) : 
+[2025-10-05 12:36:19.704] <Wally>    (in) : boardsize 7
+[2025-10-05 12:36:19.722] <Wally>   (out) : ? not supported board size
+[2025-10-05 12:36:19.722] <Wally>   (out) : 

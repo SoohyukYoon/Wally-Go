@@ -1,0 +1,23 @@
+[2025-10-05 11:57:24.925] <Wally>    (in) : name
+[2025-10-05 11:57:24.927] <Wally>    (in) : version
+[2025-10-05 11:57:24.927] <Wally>    (in) : protocol_version
+[2025-10-05 11:57:24.928] <Wally>    (in) : list_commands
+[2025-10-05 11:57:24.928] <Wally>  (meta) : Engine Started
+[2025-10-05 11:57:24.965] <Wally>  (meta) : Connection Failed
+[2025-10-05 11:57:24.965] <Wally>  (meta) : Connection Failed
+[2025-10-05 11:57:24.965] <Wally>  (meta) : Connection Failed
+[2025-10-05 11:57:24.965] <Wally>  (meta) : Connection Failed
+[2025-10-05 11:57:52.637] <Wally>    (in) : protocol_version
+[2025-10-05 11:57:52.641] <Wally>    (in) : komi 6.5
+[2025-10-05 11:57:56.021] <Wally>    (in) : protocol_version
+[2025-10-05 11:57:58.779] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:00.195] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:01.005] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:01.604] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:02.112] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:02.495] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:02.825] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:03.119] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:04.215] <Wally>    (in) : protocol_version
+[2025-10-05 11:58:06.340] <Wally>    (in) : quit
+[2025-10-05 11:58:07.797] <Wally>    (in) : quit

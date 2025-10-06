@@ -1,0 +1,347 @@
+[2025-10-05 18:57:56.786] <Wally>    (in) : name
+[2025-10-05 18:57:56.788] <Wally>    (in) : version
+[2025-10-05 18:57:56.788] <Wally>    (in) : protocol_version
+[2025-10-05 18:57:56.789] <Wally>    (in) : list_commands
+[2025-10-05 18:57:56.789] <Wally>  (meta) : Engine Started
+[2025-10-05 18:57:56.901] <Wally>   (out) : = Wally
+[2025-10-05 18:57:56.901] <Wally>   (out) : 
+[2025-10-05 18:57:56.902] <Wally>   (out) : = 1.0 
+[2025-10-05 18:57:56.902] <Wally>   (out) : 
+[2025-10-05 18:57:56.902] <Wally>   (out) : = 1
+[2025-10-05 18:57:56.902] <Wally>   (out) : 
+[2025-10-05 18:57:56.902] <Wally>   (out) : = protocol_version
+[2025-10-05 18:57:56.903] <Wally>   (out) : 
+[2025-10-05 18:58:02.594] <Wally>    (in) : komi 6.5
+[2025-10-05 18:58:02.645] <Wally>   (out) : =
+[2025-10-05 18:58:02.646] <Wally>   (out) : 
+[2025-10-05 18:58:02.659] <Wally>    (in) : boardsize 13
+[2025-10-05 18:58:02.672] <Wally>   (out) : =
+[2025-10-05 18:58:02.672] <Wally>   (out) : 
+[2025-10-05 18:58:02.684] <Wally>    (in) : clear_board
+[2025-10-05 18:58:02.696] <Wally>   (out) : =
+[2025-10-05 18:58:02.696] <Wally>   (out) : 
+[2025-10-05 18:58:02.706] <Wally>    (in) : genmove B
+[2025-10-05 18:58:02.716] <Wally>   (out) : = B4
+[2025-10-05 18:58:02.716] <Wally>   (out) : 
+[2025-10-05 18:58:03.525] <Wally>    (in) : play W K7
+[2025-10-05 18:58:03.561] <Wally>   (out) : =
+[2025-10-05 18:58:03.561] <Wally>   (out) : 
+[2025-10-05 18:58:03.577] <Wally>    (in) : genmove B
+[2025-10-05 18:58:03.589] <Wally>   (out) : = G8
+[2025-10-05 18:58:03.590] <Wally>   (out) : 
+[2025-10-05 18:58:04.358] <Wally>    (in) : play W K5
+[2025-10-05 18:58:04.387] <Wally>   (out) : =
+[2025-10-05 18:58:04.387] <Wally>   (out) : 
+[2025-10-05 18:58:04.398] <Wally>    (in) : genmove B
+[2025-10-05 18:58:04.408] <Wally>   (out) : = C1
+[2025-10-05 18:58:04.409] <Wally>   (out) : 
+[2025-10-05 18:58:04.876] <Wally>    (in) : play W G3
+[2025-10-05 18:58:04.904] <Wally>   (out) : =
+[2025-10-05 18:58:04.904] <Wally>   (out) : 
+[2025-10-05 18:58:04.914] <Wally>    (in) : genmove B
+[2025-10-05 18:58:04.929] <Wally>   (out) : = XX
+[2025-10-05 18:58:04.929] <Wally>   (out) : 
+[2025-10-05 18:58:12.227] <Wally>    (in) : clear_board
+[2025-10-05 18:58:12.228] <Wally>    (in) : play B B4
+[2025-10-05 18:58:12.228] <Wally>    (in) : play W K7
+[2025-10-05 18:58:12.229] <Wally>    (in) : play B G8
+[2025-10-05 18:58:12.229] <Wally>    (in) : play W K5
+[2025-10-05 18:58:12.229] <Wally>    (in) : play B C1
+[2025-10-05 18:58:12.230] <Wally>    (in) : play W G3
+[2025-10-05 18:58:12.230] <Wally>    (in) : play B pass
+[2025-10-05 18:58:12.230] <Wally>    (in) : play W F6
+[2025-10-05 18:58:12.243] <Wally>   (out) : =
+[2025-10-05 18:58:12.243] <Wally>   (out) : 
+[2025-10-05 18:58:12.243] <Wally>   (out) : =
+[2025-10-05 18:58:12.244] <Wally>   (out) : 
+[2025-10-05 18:58:12.244] <Wally>   (out) : =
+[2025-10-05 18:58:12.244] <Wally>   (out) : 
+[2025-10-05 18:58:12.244] <Wally>   (out) : =
+[2025-10-05 18:58:12.244] <Wally>   (out) : 
+[2025-10-05 18:58:12.244] <Wally>   (out) : =
+[2025-10-05 18:58:12.244] <Wally>   (out) : 
+[2025-10-05 18:58:12.245] <Wally>   (out) : =
+[2025-10-05 18:58:12.245] <Wally>   (out) : 
+[2025-10-05 18:58:12.245] <Wally>   (out) : =
+[2025-10-05 18:58:12.245] <Wally>   (out) : 
+[2025-10-05 18:58:12.255] <Wally>   (err) : Traceback (most recent call last):
+[2025-10-05 18:58:12.256] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 312, in <module>
+[2025-10-05 18:58:12.256] <Wally>   (err) :     gtp()
+[2025-10-05 18:58:12.256] <Wally>   (err) :     ~~~^^
+[2025-10-05 18:58:12.256] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 307, in gtp
+[2025-10-05 18:58:12.256] <Wally>   (err) :     elif 'play' in command: play(command); print('=\n')
+[2025-10-05 18:58:12.256] <Wally>   (err) :                             ~~~~^^^^^^^^^
+[2025-10-05 18:58:12.256] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 289, in play
+[2025-10-05 18:58:12.257] <Wally>   (err) :     BOARD[square] = color
+[2025-10-05 18:58:12.257] <Wally>   (err) :     ~~~~~^^^^^^^^
+[2025-10-05 18:58:12.257] <Wally>   (err) : IndexError: list assignment index out of range
+[2025-10-05 18:58:12.267] <Wally>  (meta) : Engine Stopped
+[2025-10-05 18:58:12.268] <Wally>  (meta) : Connection Failed
+[2025-10-05 18:58:12.268] <Wally>  (meta) : Connection Failed
+[2025-10-05 18:59:41.347] <Wally>    (in) : name
+[2025-10-05 18:59:41.348] <Wally>    (in) : version
+[2025-10-05 18:59:41.349] <Wally>    (in) : protocol_version
+[2025-10-05 18:59:41.349] <Wally>    (in) : list_commands
+[2025-10-05 18:59:41.349] <Wally>  (meta) : Engine Started
+[2025-10-05 18:59:41.492] <Wally>   (out) : = Wally
+[2025-10-05 18:59:41.492] <Wally>   (out) : 
+[2025-10-05 18:59:41.492] <Wally>   (out) : = 1.0 
+[2025-10-05 18:59:41.493] <Wally>   (out) : 
+[2025-10-05 18:59:41.493] <Wally>   (out) : = 1
+[2025-10-05 18:59:41.493] <Wally>   (out) : 
+[2025-10-05 18:59:41.493] <Wally>   (out) : = protocol_version
+[2025-10-05 18:59:41.494] <Wally>   (out) : 
+[2025-10-05 18:59:42.355] <Wally>    (in) : quit
+[2025-10-05 18:59:42.388] <Wally>  (meta) : Engine Stopped
+[2025-10-05 18:59:42.389] <Wally>  (meta) : Connection Failed
+[2025-10-05 18:59:45.847] <Wally>    (in) : name
+[2025-10-05 18:59:45.847] <Wally>    (in) : version
+[2025-10-05 18:59:45.848] <Wally>    (in) : protocol_version
+[2025-10-05 18:59:45.849] <Wally>    (in) : list_commands
+[2025-10-05 18:59:45.849] <Wally>  (meta) : Engine Started
+[2025-10-05 18:59:45.941] <Wally>   (out) : = Wally
+[2025-10-05 18:59:45.941] <Wally>   (out) : 
+[2025-10-05 18:59:45.941] <Wally>   (out) : = 1.0 
+[2025-10-05 18:59:45.941] <Wally>   (out) : 
+[2025-10-05 18:59:45.941] <Wally>   (out) : = 1
+[2025-10-05 18:59:45.942] <Wally>   (out) : 
+[2025-10-05 18:59:45.942] <Wally>   (out) : = protocol_version
+[2025-10-05 18:59:45.942] <Wally>   (out) : 
+[2025-10-05 18:59:50.095] <Wally>    (in) : komi 6.5
+[2025-10-05 18:59:50.127] <Wally>   (out) : =
+[2025-10-05 18:59:50.127] <Wally>   (out) : 
+[2025-10-05 18:59:50.137] <Wally>    (in) : boardsize 13
+[2025-10-05 18:59:50.150] <Wally>   (out) : =
+[2025-10-05 18:59:50.151] <Wally>   (out) : 
+[2025-10-05 18:59:50.161] <Wally>    (in) : clear_board
+[2025-10-05 18:59:50.162] <Wally>    (in) : play B B4
+[2025-10-05 18:59:50.162] <Wally>    (in) : play W K7
+[2025-10-05 18:59:50.162] <Wally>    (in) : play B G8
+[2025-10-05 18:59:50.162] <Wally>    (in) : play W K5
+[2025-10-05 18:59:50.162] <Wally>    (in) : play B C1
+[2025-10-05 18:59:50.168] <Wally>    (in) : play W G3
+[2025-10-05 18:59:50.169] <Wally>    (in) : play B pass
+[2025-10-05 18:59:50.169] <Wally>    (in) : play W F6
+[2025-10-05 18:59:50.169] <Wally>    (in) : play B G11
+[2025-10-05 18:59:50.190] <Wally>   (out) : =
+[2025-10-05 18:59:50.190] <Wally>   (out) : 
+[2025-10-05 18:59:50.191] <Wally>   (out) : =
+[2025-10-05 18:59:50.191] <Wally>   (out) : 
+[2025-10-05 18:59:50.191] <Wally>   (out) : =
+[2025-10-05 18:59:50.192] <Wally>   (out) : 
+[2025-10-05 18:59:50.193] <Wally>   (out) : =
+[2025-10-05 18:59:50.193] <Wally>   (out) : 
+[2025-10-05 18:59:50.193] <Wally>   (out) : =
+[2025-10-05 18:59:50.194] <Wally>   (out) : 
+[2025-10-05 18:59:50.194] <Wally>   (out) : =
+[2025-10-05 18:59:50.194] <Wally>   (out) : 
+[2025-10-05 18:59:50.194] <Wally>   (out) : =
+[2025-10-05 18:59:50.194] <Wally>   (out) : 
+[2025-10-05 18:59:50.207] <Wally>   (err) : Traceback (most recent call last):
+[2025-10-05 18:59:50.207] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 312, in <module>
+[2025-10-05 18:59:50.207] <Wally>   (err) :     gtp()
+[2025-10-05 18:59:50.207] <Wally>   (err) :     ~~~^^
+[2025-10-05 18:59:50.207] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 307, in gtp
+[2025-10-05 18:59:50.208] <Wally>   (err) :     elif 'play' in command: play(command); print('=\n')
+[2025-10-05 18:59:50.208] <Wally>   (err) :                             ~~~~^^^^^^^^^
+[2025-10-05 18:59:50.208] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 289, in play
+[2025-10-05 18:59:50.208] <Wally>   (err) :     BOARD[square] = color
+[2025-10-05 18:59:50.208] <Wally>   (err) :     ~~~~~^^^^^^^^
+[2025-10-05 18:59:50.208] <Wally>   (err) : IndexError: list assignment index out of range
+[2025-10-05 18:59:50.219] <Wally>  (meta) : Engine Stopped
+[2025-10-05 18:59:50.220] <Wally>  (meta) : Connection Failed
+[2025-10-05 18:59:50.220] <Wally>  (meta) : Connection Failed
+[2025-10-05 18:59:50.220] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:00.294] <Wally>    (in) : name
+[2025-10-05 19:00:00.294] <Wally>    (in) : version
+[2025-10-05 19:00:00.295] <Wally>    (in) : protocol_version
+[2025-10-05 19:00:00.295] <Wally>    (in) : list_commands
+[2025-10-05 19:00:00.295] <Wally>  (meta) : Engine Started
+[2025-10-05 19:00:00.417] <Wally>   (out) : = Wally
+[2025-10-05 19:00:00.418] <Wally>   (out) : 
+[2025-10-05 19:00:00.418] <Wally>   (out) : = 1.0 
+[2025-10-05 19:00:00.418] <Wally>   (out) : 
+[2025-10-05 19:00:00.418] <Wally>   (out) : = 1
+[2025-10-05 19:00:00.418] <Wally>   (out) : 
+[2025-10-05 19:00:00.418] <Wally>   (out) : = protocol_version
+[2025-10-05 19:00:00.418] <Wally>   (out) : 
+[2025-10-05 19:00:03.913] <Wally>    (in) : komi 6.5
+[2025-10-05 19:00:03.939] <Wally>   (out) : =
+[2025-10-05 19:00:03.940] <Wally>   (out) : 
+[2025-10-05 19:00:03.951] <Wally>    (in) : boardsize 13
+[2025-10-05 19:00:03.961] <Wally>   (out) : =
+[2025-10-05 19:00:03.961] <Wally>   (out) : 
+[2025-10-05 19:00:03.969] <Wally>    (in) : clear_board
+[2025-10-05 19:00:03.970] <Wally>    (in) : play B B4
+[2025-10-05 19:00:03.970] <Wally>    (in) : play W K7
+[2025-10-05 19:00:03.971] <Wally>    (in) : play B G8
+[2025-10-05 19:00:03.971] <Wally>    (in) : play W K5
+[2025-10-05 19:00:03.971] <Wally>    (in) : play B C1
+[2025-10-05 19:00:03.971] <Wally>    (in) : play W G3
+[2025-10-05 19:00:03.972] <Wally>    (in) : play B pass
+[2025-10-05 19:00:03.972] <Wally>    (in) : play W F6
+[2025-10-05 19:00:03.972] <Wally>    (in) : play B G11
+[2025-10-05 19:00:03.972] <Wally>    (in) : play W D10
+[2025-10-05 19:00:03.973] <Wally>    (in) : play B C8
+[2025-10-05 19:00:03.985] <Wally>   (out) : =
+[2025-10-05 19:00:03.986] <Wally>   (out) : 
+[2025-10-05 19:00:03.986] <Wally>   (out) : =
+[2025-10-05 19:00:03.986] <Wally>   (out) : 
+[2025-10-05 19:00:03.986] <Wally>   (out) : =
+[2025-10-05 19:00:03.986] <Wally>   (out) : 
+[2025-10-05 19:00:03.987] <Wally>   (out) : =
+[2025-10-05 19:00:03.987] <Wally>   (out) : 
+[2025-10-05 19:00:03.987] <Wally>   (out) : =
+[2025-10-05 19:00:03.987] <Wally>   (out) : 
+[2025-10-05 19:00:03.987] <Wally>   (out) : =
+[2025-10-05 19:00:03.987] <Wally>   (out) : 
+[2025-10-05 19:00:03.987] <Wally>   (out) : =
+[2025-10-05 19:00:03.987] <Wally>   (out) : 
+[2025-10-05 19:00:03.995] <Wally>   (err) : Traceback (most recent call last):
+[2025-10-05 19:00:03.995] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 312, in <module>
+[2025-10-05 19:00:03.996] <Wally>   (err) :     gtp()
+[2025-10-05 19:00:03.996] <Wally>   (err) :     ~~~^^
+[2025-10-05 19:00:03.996] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 307, in gtp
+[2025-10-05 19:00:03.996] <Wally>   (err) :     elif 'play' in command: play(command); print('=\n')
+[2025-10-05 19:00:03.996] <Wally>   (err) :                             ~~~~^^^^^^^^^
+[2025-10-05 19:00:03.996] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 289, in play
+[2025-10-05 19:00:03.996] <Wally>   (err) :     BOARD[square] = color
+[2025-10-05 19:00:03.996] <Wally>   (err) :     ~~~~~^^^^^^^^
+[2025-10-05 19:00:03.996] <Wally>   (err) : IndexError: list assignment index out of range
+[2025-10-05 19:00:04.006] <Wally>  (meta) : Engine Stopped
+[2025-10-05 19:00:04.007] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:04.007] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:04.007] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:04.007] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:04.008] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:13.604] <Wally>    (in) : name
+[2025-10-05 19:00:13.604] <Wally>    (in) : version
+[2025-10-05 19:00:13.604] <Wally>    (in) : protocol_version
+[2025-10-05 19:00:13.605] <Wally>    (in) : list_commands
+[2025-10-05 19:00:13.605] <Wally>  (meta) : Engine Started
+[2025-10-05 19:00:13.716] <Wally>   (out) : = Wally
+[2025-10-05 19:00:13.716] <Wally>   (out) : 
+[2025-10-05 19:00:13.717] <Wally>   (out) : = 1.0 
+[2025-10-05 19:00:13.717] <Wally>   (out) : 
+[2025-10-05 19:00:13.717] <Wally>   (out) : = 1
+[2025-10-05 19:00:13.717] <Wally>   (out) : 
+[2025-10-05 19:00:13.717] <Wally>   (out) : = protocol_version
+[2025-10-05 19:00:13.717] <Wally>   (out) : 
+[2025-10-05 19:00:19.155] <Wally>    (in) : komi 6.5
+[2025-10-05 19:00:19.183] <Wally>   (out) : =
+[2025-10-05 19:00:19.183] <Wally>   (out) : 
+[2025-10-05 19:00:19.193] <Wally>    (in) : boardsize 13
+[2025-10-05 19:00:19.204] <Wally>   (out) : =
+[2025-10-05 19:00:19.205] <Wally>   (out) : 
+[2025-10-05 19:00:19.212] <Wally>    (in) : clear_board
+[2025-10-05 19:00:19.213] <Wally>    (in) : play B H6
+[2025-10-05 19:00:19.213] <Wally>    (in) : play W F8
+[2025-10-05 19:00:19.213] <Wally>    (in) : play B H8
+[2025-10-05 19:00:19.224] <Wally>   (out) : =
+[2025-10-05 19:00:19.225] <Wally>   (out) : 
+[2025-10-05 19:00:19.225] <Wally>   (out) : =
+[2025-10-05 19:00:19.225] <Wally>   (out) : 
+[2025-10-05 19:00:19.225] <Wally>   (out) : =
+[2025-10-05 19:00:19.225] <Wally>   (out) : 
+[2025-10-05 19:00:19.225] <Wally>   (out) : =
+[2025-10-05 19:00:19.225] <Wally>   (out) : 
+[2025-10-05 19:00:19.233] <Wally>    (in) : genmove W
+[2025-10-05 19:00:19.243] <Wally>   (out) : = E7
+[2025-10-05 19:00:19.243] <Wally>   (out) : 
+[2025-10-05 19:00:19.920] <Wally>    (in) : play B H4
+[2025-10-05 19:00:19.947] <Wally>   (out) : =
+[2025-10-05 19:00:19.948] <Wally>   (out) : 
+[2025-10-05 19:00:19.958] <Wally>    (in) : genmove W
+[2025-10-05 19:00:19.969] <Wally>   (out) : = XX
+[2025-10-05 19:00:19.969] <Wally>   (out) : 
+[2025-10-05 19:00:20.437] <Wally>    (in) : clear_board
+[2025-10-05 19:00:20.437] <Wally>    (in) : play B H6
+[2025-10-05 19:00:20.438] <Wally>    (in) : play W F8
+[2025-10-05 19:00:20.438] <Wally>    (in) : play B H8
+[2025-10-05 19:00:20.439] <Wally>    (in) : play W E7
+[2025-10-05 19:00:20.439] <Wally>    (in) : play B H4
+[2025-10-05 19:00:20.439] <Wally>    (in) : play W pass
+[2025-10-05 19:00:20.440] <Wally>    (in) : play B D3
+[2025-10-05 19:00:20.455] <Wally>   (out) : =
+[2025-10-05 19:00:20.456] <Wally>   (out) : 
+[2025-10-05 19:00:20.456] <Wally>   (out) : =
+[2025-10-05 19:00:20.456] <Wally>   (out) : 
+[2025-10-05 19:00:20.456] <Wally>   (out) : =
+[2025-10-05 19:00:20.456] <Wally>   (out) : 
+[2025-10-05 19:00:20.457] <Wally>   (out) : =
+[2025-10-05 19:00:20.457] <Wally>   (out) : 
+[2025-10-05 19:00:20.457] <Wally>   (out) : =
+[2025-10-05 19:00:20.457] <Wally>   (out) : 
+[2025-10-05 19:00:20.457] <Wally>   (out) : =
+[2025-10-05 19:00:20.457] <Wally>   (out) : 
+[2025-10-05 19:00:20.466] <Wally>   (err) : Traceback (most recent call last):
+[2025-10-05 19:00:20.466] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 312, in <module>
+[2025-10-05 19:00:20.466] <Wally>   (err) :     gtp()
+[2025-10-05 19:00:20.466] <Wally>   (err) :     ~~~^^
+[2025-10-05 19:00:20.466] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 307, in gtp
+[2025-10-05 19:00:20.466] <Wally>   (err) :     elif 'play' in command: play(command); print('=\n')
+[2025-10-05 19:00:20.467] <Wally>   (err) :                             ~~~~^^^^^^^^^
+[2025-10-05 19:00:20.467] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 289, in play
+[2025-10-05 19:00:20.467] <Wally>   (err) :     BOARD[square] = color
+[2025-10-05 19:00:20.467] <Wally>   (err) :     ~~~~~^^^^^^^^
+[2025-10-05 19:00:20.467] <Wally>   (err) : IndexError: list assignment index out of range
+[2025-10-05 19:00:20.477] <Wally>  (meta) : Engine Stopped
+[2025-10-05 19:00:20.477] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:20.478] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:42.797] <Wally>    (in) : name
+[2025-10-05 19:00:42.798] <Wally>    (in) : version
+[2025-10-05 19:00:42.798] <Wally>    (in) : protocol_version
+[2025-10-05 19:00:42.799] <Wally>    (in) : list_commands
+[2025-10-05 19:00:42.799] <Wally>  (meta) : Engine Started
+[2025-10-05 19:00:42.799] <Wally>    (in) : komi 6.5
+[2025-10-05 19:00:42.940] <Wally>   (out) : = Wally
+[2025-10-05 19:00:42.941] <Wally>   (out) : 
+[2025-10-05 19:00:42.941] <Wally>   (out) : = 1.0 
+[2025-10-05 19:00:42.941] <Wally>   (out) : 
+[2025-10-05 19:00:42.941] <Wally>   (out) : = 1
+[2025-10-05 19:00:42.941] <Wally>   (out) : 
+[2025-10-05 19:00:42.941] <Wally>   (out) : = protocol_version
+[2025-10-05 19:00:42.941] <Wally>   (out) : 
+[2025-10-05 19:00:42.941] <Wally>   (out) : =
+[2025-10-05 19:00:42.941] <Wally>   (out) : 
+[2025-10-05 19:00:42.954] <Wally>    (in) : boardsize 13
+[2025-10-05 19:00:42.970] <Wally>   (out) : =
+[2025-10-05 19:00:42.970] <Wally>   (out) : 
+[2025-10-05 19:00:42.978] <Wally>    (in) : clear_board
+[2025-10-05 19:00:42.978] <Wally>    (in) : play B H6
+[2025-10-05 19:00:42.978] <Wally>    (in) : play W F8
+[2025-10-05 19:00:42.978] <Wally>    (in) : play B H8
+[2025-10-05 19:00:42.978] <Wally>    (in) : play W E7
+[2025-10-05 19:00:42.979] <Wally>    (in) : play B H4
+[2025-10-05 19:00:42.979] <Wally>    (in) : play W pass
+[2025-10-05 19:00:42.979] <Wally>    (in) : play B D3
+[2025-10-05 19:00:42.979] <Wally>    (in) : play W C8
+[2025-10-05 19:00:42.979] <Wally>    (in) : play B C6
+[2025-10-05 19:00:42.992] <Wally>   (out) : =
+[2025-10-05 19:00:42.992] <Wally>   (out) : 
+[2025-10-05 19:00:42.992] <Wally>   (out) : =
+[2025-10-05 19:00:42.992] <Wally>   (out) : 
+[2025-10-05 19:00:42.992] <Wally>   (out) : =
+[2025-10-05 19:00:42.992] <Wally>   (out) : 
+[2025-10-05 19:00:42.992] <Wally>   (out) : =
+[2025-10-05 19:00:42.993] <Wally>   (out) : 
+[2025-10-05 19:00:42.993] <Wally>   (out) : =
+[2025-10-05 19:00:42.993] <Wally>   (out) : 
+[2025-10-05 19:00:42.993] <Wally>   (out) : =
+[2025-10-05 19:00:42.993] <Wally>   (out) : 
+[2025-10-05 19:00:43.002] <Wally>   (err) : Traceback (most recent call last):
+[2025-10-05 19:00:43.002] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 312, in <module>
+[2025-10-05 19:00:43.002] <Wally>   (err) :     gtp()
+[2025-10-05 19:00:43.002] <Wally>   (err) :     ~~~^^
+[2025-10-05 19:00:43.002] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 307, in gtp
+[2025-10-05 19:00:43.003] <Wally>   (err) :     elif 'play' in command: play(command); print('=\n')
+[2025-10-05 19:00:43.003] <Wally>   (err) :                             ~~~~^^^^^^^^^
+[2025-10-05 19:00:43.003] <Wally>   (err) :   File "/Users/soohyukyoon/SooGo/Wally.py", line 289, in play
+[2025-10-05 19:00:43.003] <Wally>   (err) :     BOARD[square] = color
+[2025-10-05 19:00:43.003] <Wally>   (err) :     ~~~~~^^^^^^^^
+[2025-10-05 19:00:43.003] <Wally>   (err) : IndexError: list assignment index out of range
+[2025-10-05 19:00:43.013] <Wally>  (meta) : Engine Stopped
+[2025-10-05 19:00:43.014] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:43.014] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:43.014] <Wally>  (meta) : Connection Failed
+[2025-10-05 19:00:43.014] <Wally>  (meta) : Connection Failed

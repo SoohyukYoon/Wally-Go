@@ -1,0 +1,405 @@
+[2025-10-06 02:11:35.784] <Wally>    (in) : name
+[2025-10-06 02:11:35.787] <Wally>    (in) : version
+[2025-10-06 02:11:35.787] <Wally>    (in) : protocol_version
+[2025-10-06 02:11:35.787] <Wally>    (in) : list_commands
+[2025-10-06 02:11:35.788] <Wally>  (meta) : Engine Started
+[2025-10-06 02:11:35.879] <Wally>   (out) : = Wally
+[2025-10-06 02:11:35.880] <Wally>   (out) : 
+[2025-10-06 02:11:35.880] <Wally>   (out) : = 1.0 
+[2025-10-06 02:11:35.880] <Wally>   (out) : 
+[2025-10-06 02:11:35.880] <Wally>   (out) : = 1
+[2025-10-06 02:11:35.880] <Wally>   (out) : 
+[2025-10-06 02:11:35.880] <Wally>   (out) : = protocol_version
+[2025-10-06 02:11:35.880] <Wally>   (out) : 
+[2025-10-06 02:12:07.501] <Wally>    (in) : komi 6.5
+[2025-10-06 02:12:07.515] <Wally>   (out) : =
+[2025-10-06 02:12:07.515] <Wally>   (out) : 
+[2025-10-06 02:12:07.524] <Wally>    (in) : boardsize 9
+[2025-10-06 02:12:07.532] <Wally>   (out) : =
+[2025-10-06 02:12:07.533] <Wally>   (out) : 
+[2025-10-06 02:12:07.537] <Wally>    (in) : clear_board
+[2025-10-06 02:12:07.543] <Wally>   (out) : =
+[2025-10-06 02:12:07.543] <Wally>   (out) : 
+[2025-10-06 02:12:07.549] <Wally>    (in) : genmove B
+[2025-10-06 02:12:07.558] <Wally>   (out) : = E1
+[2025-10-06 02:12:07.558] <Wally>   (out) : 
+[2025-10-06 02:12:28.081] <Wally>    (in) : play W C3
+[2025-10-06 02:12:28.093] <Wally>   (out) : =
+[2025-10-06 02:12:28.093] <Wally>   (out) : 
+[2025-10-06 02:12:28.099] <Wally>    (in) : genmove B
+[2025-10-06 02:12:28.110] <Wally>   (out) : = C2
+[2025-10-06 02:12:28.111] <Wally>   (out) : 
+[2025-10-06 02:12:28.130] <Wally>   (err) : capture move XX
+[2025-10-06 02:12:28.130] <Wally>   (err) : save move: XX
+[2025-10-06 02:12:28.131] <Wally>   (err) : defend move: XX
+[2025-10-06 02:12:28.131] <Wally>   (err) : surround move: C2
+[2025-10-06 02:12:28.131] <Wally>   (err) : best move C2
+[2025-10-06 02:12:43.898] <Wally>    (in) : play W D2
+[2025-10-06 02:12:43.907] <Wally>   (out) : =
+[2025-10-06 02:12:43.907] <Wally>   (out) : 
+[2025-10-06 02:12:43.912] <Wally>    (in) : genmove B
+[2025-10-06 02:12:43.917] <Wally>   (out) : = B2
+[2025-10-06 02:12:43.918] <Wally>   (out) : 
+[2025-10-06 02:12:43.933] <Wally>   (err) : capture move XX
+[2025-10-06 02:12:43.933] <Wally>   (err) : save move: B2
+[2025-10-06 02:12:43.933] <Wally>   (err) : defend move: XX
+[2025-10-06 02:12:43.933] <Wally>   (err) : surround move: C4
+[2025-10-06 02:12:43.933] <Wally>   (err) : best move B2
+[2025-10-06 02:13:08.131] <Wally>    (in) : play W F1
+[2025-10-06 02:13:08.140] <Wally>   (out) : =
+[2025-10-06 02:13:08.140] <Wally>   (out) : 
+[2025-10-06 02:13:08.145] <Wally>    (in) : genmove B
+[2025-10-06 02:13:08.153] <Wally>   (out) : = E2
+[2025-10-06 02:13:08.153] <Wally>   (out) : 
+[2025-10-06 02:13:08.165] <Wally>   (err) : capture move XX
+[2025-10-06 02:13:08.165] <Wally>   (err) : save move: E2
+[2025-10-06 02:13:08.165] <Wally>   (err) : defend move: XX
+[2025-10-06 02:13:08.165] <Wally>   (err) : surround move: B3
+[2025-10-06 02:13:08.165] <Wally>   (err) : best move E2
+[2025-10-06 02:13:17.132] <Wally>    (in) : play W F3
+[2025-10-06 02:13:17.140] <Wally>   (out) : =
+[2025-10-06 02:13:17.141] <Wally>   (out) : 
+[2025-10-06 02:13:17.146] <Wally>    (in) : genmove B
+[2025-10-06 02:13:17.152] <Wally>   (out) : = B3
+[2025-10-06 02:13:17.152] <Wally>   (out) : 
+[2025-10-06 02:13:17.161] <Wally>   (err) : capture move XX
+[2025-10-06 02:13:17.161] <Wally>   (err) : save move: XX
+[2025-10-06 02:13:17.161] <Wally>   (err) : defend move: XX
+[2025-10-06 02:13:17.161] <Wally>   (err) : surround move: B3
+[2025-10-06 02:13:17.161] <Wally>   (err) : best move B3
+[2025-10-06 02:13:34.421] <Wally>    (in) : play W B4
+[2025-10-06 02:13:34.429] <Wally>   (out) : =
+[2025-10-06 02:13:34.430] <Wally>   (out) : 
+[2025-10-06 02:13:34.434] <Wally>    (in) : genmove B
+[2025-10-06 02:13:34.440] <Wally>   (out) : = B5
+[2025-10-06 02:13:34.440] <Wally>   (out) : 
+[2025-10-06 02:13:34.453] <Wally>   (err) : capture move XX
+[2025-10-06 02:13:34.453] <Wally>   (err) : save move: XX
+[2025-10-06 02:13:34.453] <Wally>   (err) : defend move: XX
+[2025-10-06 02:13:34.453] <Wally>   (err) : surround move: B5
+[2025-10-06 02:13:34.454] <Wally>   (err) : best move B5
+[2025-10-06 02:14:12.093] <Wally>    (in) : play W C5
+[2025-10-06 02:14:12.102] <Wally>   (out) : =
+[2025-10-06 02:14:12.102] <Wally>   (out) : 
+[2025-10-06 02:14:12.108] <Wally>    (in) : genmove B
+[2025-10-06 02:14:12.115] <Wally>   (out) : = B6
+[2025-10-06 02:14:12.115] <Wally>   (out) : 
+[2025-10-06 02:14:12.134] <Wally>   (err) : capture move XX
+[2025-10-06 02:14:12.134] <Wally>   (err) : save move: B6
+[2025-10-06 02:14:12.134] <Wally>   (err) : defend move: XX
+[2025-10-06 02:14:12.134] <Wally>   (err) : surround move: C6
+[2025-10-06 02:14:12.134] <Wally>   (err) : best move B6
+[2025-10-06 02:14:54.415] <Wally>    (in) : play W A7
+[2025-10-06 02:14:54.424] <Wally>   (out) : =
+[2025-10-06 02:14:54.425] <Wally>   (out) : 
+[2025-10-06 02:14:54.429] <Wally>    (in) : genmove B
+[2025-10-06 02:14:54.439] <Wally>   (out) : = B7
+[2025-10-06 02:14:54.440] <Wally>   (out) : 
+[2025-10-06 02:14:54.452] <Wally>   (err) : capture move XX
+[2025-10-06 02:14:54.452] <Wally>   (err) : save move: XX
+[2025-10-06 02:14:54.452] <Wally>   (err) : defend move: XX
+[2025-10-06 02:14:54.452] <Wally>   (err) : surround move: B7
+[2025-10-06 02:14:54.452] <Wally>   (err) : best move B7
+[2025-10-06 02:15:05.554] <Wally>    (in) : play W B8
+[2025-10-06 02:15:05.563] <Wally>   (out) : =
+[2025-10-06 02:15:05.563] <Wally>   (out) : 
+[2025-10-06 02:15:05.568] <Wally>    (in) : genmove B
+[2025-10-06 02:15:05.575] <Wally>   (out) : = C8
+[2025-10-06 02:15:05.575] <Wally>   (out) : 
+[2025-10-06 02:15:05.585] <Wally>   (err) : capture move XX
+[2025-10-06 02:15:05.585] <Wally>   (err) : save move: XX
+[2025-10-06 02:15:05.585] <Wally>   (err) : defend move: XX
+[2025-10-06 02:15:05.585] <Wally>   (err) : surround move: C8
+[2025-10-06 02:15:05.585] <Wally>   (err) : best move C8
+[2025-10-06 02:15:19.849] <Wally>    (in) : play W C9
+[2025-10-06 02:15:19.858] <Wally>   (out) : =
+[2025-10-06 02:15:19.858] <Wally>   (out) : 
+[2025-10-06 02:15:19.863] <Wally>    (in) : genmove B
+[2025-10-06 02:15:19.870] <Wally>   (out) : = C7
+[2025-10-06 02:15:19.870] <Wally>   (out) : 
+[2025-10-06 02:15:19.880] <Wally>   (err) : capture move XX
+[2025-10-06 02:15:19.880] <Wally>   (err) : save move: C7
+[2025-10-06 02:15:19.880] <Wally>   (err) : defend move: XX
+[2025-10-06 02:15:19.880] <Wally>   (err) : surround move: D9
+[2025-10-06 02:15:19.880] <Wally>   (err) : best move C7
+[2025-10-06 02:15:46.471] <Wally>    (in) : play W D8
+[2025-10-06 02:15:46.480] <Wally>   (out) : =
+[2025-10-06 02:15:46.481] <Wally>   (out) : 
+[2025-10-06 02:15:46.486] <Wally>    (in) : genmove B
+[2025-10-06 02:15:46.494] <Wally>   (out) : = D9
+[2025-10-06 02:15:46.495] <Wally>   (out) : 
+[2025-10-06 02:15:46.507] <Wally>   (err) : capture move XX
+[2025-10-06 02:15:46.507] <Wally>   (err) : save move: XX
+[2025-10-06 02:15:46.507] <Wally>   (err) : defend move: XX
+[2025-10-06 02:15:46.507] <Wally>   (err) : surround move: D9
+[2025-10-06 02:15:46.507] <Wally>   (err) : best move D9
+[2025-10-06 02:15:56.732] <Wally>    (in) : play W E9
+[2025-10-06 02:15:56.741] <Wally>   (out) : =
+[2025-10-06 02:15:56.741] <Wally>   (out) : 
+[2025-10-06 02:15:56.747] <Wally>    (in) : genmove B
+[2025-10-06 02:15:56.753] <Wally>   (out) : = F6
+[2025-10-06 02:15:56.754] <Wally>   (out) : 
+[2025-10-06 02:15:56.766] <Wally>   (err) : capture move XX
+[2025-10-06 02:15:56.767] <Wally>   (err) : save move: XX
+[2025-10-06 02:15:56.767] <Wally>   (err) : defend move: XX
+[2025-10-06 02:15:56.767] <Wally>   (err) : surround move: D9
+[2025-10-06 02:15:56.768] <Wally>   (err) : avoided suicide move, making rand instead
+[2025-10-06 02:16:31.152] <Wally>    (in) : play W E3
+[2025-10-06 02:16:31.161] <Wally>   (out) : =
+[2025-10-06 02:16:31.161] <Wally>   (out) : 
+[2025-10-06 02:16:31.165] <Wally>    (in) : genmove B
+[2025-10-06 02:16:31.172] <Wally>   (out) : = F2
+[2025-10-06 02:16:31.173] <Wally>   (out) : 
+[2025-10-06 02:16:31.184] <Wally>   (err) : capture move XX
+[2025-10-06 02:16:31.184] <Wally>   (err) : save move: F2
+[2025-10-06 02:16:31.184] <Wally>   (err) : defend move: XX
+[2025-10-06 02:16:31.184] <Wally>   (err) : surround move: D9
+[2025-10-06 02:16:31.184] <Wally>   (err) : best move F2
+[2025-10-06 02:16:42.687] <Wally>    (in) : play W G2
+[2025-10-06 02:16:42.696] <Wally>   (out) : =
+[2025-10-06 02:16:42.697] <Wally>   (out) : 
+[2025-10-06 02:16:42.701] <Wally>    (in) : genmove B
+[2025-10-06 02:16:42.711] <Wally>   (out) : = G1
+[2025-10-06 02:16:42.711] <Wally>   (out) : 
+[2025-10-06 02:16:42.723] <Wally>   (err) : capture move G1
+[2025-10-06 02:16:42.723] <Wally>   (err) : save move: H1
+[2025-10-06 02:16:42.723] <Wally>   (err) : defend move: XX
+[2025-10-06 02:16:42.723] <Wally>   (err) : surround move: D9
+[2025-10-06 02:16:42.723] <Wally>   (err) : best move G1
+[2025-10-06 02:16:53.330] <Wally>    (in) : play W H1
+[2025-10-06 02:16:53.339] <Wally>   (out) : =
+[2025-10-06 02:16:53.339] <Wally>   (out) : 
+[2025-10-06 02:16:53.344] <Wally>    (in) : genmove B
+[2025-10-06 02:16:53.351] <Wally>   (out) : = F1
+[2025-10-06 02:16:53.351] <Wally>   (out) : 
+[2025-10-06 02:16:53.361] <Wally>   (err) : capture move XX
+[2025-10-06 02:16:53.362] <Wally>   (err) : save move: F1
+[2025-10-06 02:16:53.362] <Wally>   (err) : defend move: XX
+[2025-10-06 02:16:53.362] <Wally>   (err) : surround move: D9
+[2025-10-06 02:16:53.362] <Wally>   (err) : best move F1
+[2025-10-06 02:17:00.598] <Wally>    (in) : play W D1
+[2025-10-06 02:17:00.608] <Wally>   (out) : =
+[2025-10-06 02:17:00.608] <Wally>   (out) : 
+[2025-10-06 02:17:00.613] <Wally>    (in) : genmove B
+[2025-10-06 02:17:00.624] <Wally>   (out) : = A3
+[2025-10-06 02:17:00.625] <Wally>   (out) : 
+[2025-10-06 02:17:00.640] <Wally>   (err) : capture move XX
+[2025-10-06 02:17:00.640] <Wally>   (err) : save move: XX
+[2025-10-06 02:17:00.640] <Wally>   (err) : defend move: XX
+[2025-10-06 02:17:00.640] <Wally>   (err) : surround move: D9
+[2025-10-06 02:17:00.641] <Wally>   (err) : avoided suicide move, making rand instead
+[2025-10-06 02:17:15.223] <Wally>    (in) : play W A4
+[2025-10-06 02:17:15.233] <Wally>   (out) : =
+[2025-10-06 02:17:15.233] <Wally>   (out) : 
+[2025-10-06 02:17:15.238] <Wally>    (in) : genmove B
+[2025-10-06 02:17:15.247] <Wally>   (out) : = E2
+[2025-10-06 02:17:15.247] <Wally>   (out) : 
+[2025-10-06 02:17:15.256] <Wally>   (err) : capture move XX
+[2025-10-06 02:17:15.256] <Wally>   (err) : save move: XX
+[2025-10-06 02:17:15.256] <Wally>   (err) : defend move: XX
+[2025-10-06 02:17:15.256] <Wally>   (err) : surround move: D9
+[2025-10-06 02:17:15.256] <Wally>   (err) : avoided suicide move, making rand instead
+[2025-10-06 02:22:22.655] <Wally>    (in) : quit
+[2025-10-06 02:22:22.686] <Wally>  (meta) : Engine Stopped
+[2025-10-06 02:22:22.705] <Wally>  (meta) : Connection Failed
+[2025-10-06 02:22:24.370] <Wally>    (in) : name
+[2025-10-06 02:22:24.370] <Wally>    (in) : version
+[2025-10-06 02:22:24.370] <Wally>    (in) : protocol_version
+[2025-10-06 02:22:24.370] <Wally>    (in) : list_commands
+[2025-10-06 02:22:24.371] <Wally>  (meta) : Engine Started
+[2025-10-06 02:22:24.456] <Wally>   (out) : = Wally
+[2025-10-06 02:22:24.456] <Wally>   (out) : 
+[2025-10-06 02:22:24.457] <Wally>   (out) : = 1.0 
+[2025-10-06 02:22:24.457] <Wally>   (out) : 
+[2025-10-06 02:22:24.457] <Wally>   (out) : = 1
+[2025-10-06 02:22:24.457] <Wally>   (out) : 
+[2025-10-06 02:22:24.457] <Wally>   (out) : = protocol_version
+[2025-10-06 02:22:24.457] <Wally>   (out) : 
+[2025-10-06 02:22:33.618] <Wally>    (in) : komi 6.5
+[2025-10-06 02:22:33.633] <Wally>   (out) : =
+[2025-10-06 02:22:33.635] <Wally>   (out) : 
+[2025-10-06 02:22:33.643] <Wally>    (in) : boardsize 9
+[2025-10-06 02:22:33.652] <Wally>   (out) : =
+[2025-10-06 02:22:33.652] <Wally>   (out) : 
+[2025-10-06 02:22:33.657] <Wally>    (in) : clear_board
+[2025-10-06 02:22:33.669] <Wally>   (out) : =
+[2025-10-06 02:22:33.669] <Wally>   (out) : 
+[2025-10-06 02:22:33.674] <Wally>    (in) : genmove B
+[2025-10-06 02:22:33.677] <Wally>   (out) : = G5
+[2025-10-06 02:22:33.678] <Wally>   (out) : 
+[2025-10-06 02:23:10.572] <Wally>    (in) : play W D4
+[2025-10-06 02:23:10.582] <Wally>   (out) : =
+[2025-10-06 02:23:10.582] <Wally>   (out) : 
+[2025-10-06 02:23:10.587] <Wally>    (in) : genmove B
+[2025-10-06 02:23:10.595] <Wally>   (out) : = D3
+[2025-10-06 02:23:10.595] <Wally>   (out) : 
+[2025-10-06 02:23:10.608] <Wally>   (err) : capture move XX
+[2025-10-06 02:23:10.608] <Wally>   (err) : save move: XX
+[2025-10-06 02:23:10.608] <Wally>   (err) : defend move: XX
+[2025-10-06 02:23:10.608] <Wally>   (err) : surround move: D3
+[2025-10-06 02:23:10.608] <Wally>   (err) : best move D3
+[2025-10-06 02:23:33.415] <Wally>    (in) : play W D2
+[2025-10-06 02:23:33.426] <Wally>   (out) : =
+[2025-10-06 02:23:33.426] <Wally>   (out) : 
+[2025-10-06 02:23:33.431] <Wally>    (in) : genmove B
+[2025-10-06 02:23:33.437] <Wally>   (out) : = E3
+[2025-10-06 02:23:33.438] <Wally>   (out) : 
+[2025-10-06 02:23:33.448] <Wally>   (err) : capture move XX
+[2025-10-06 02:23:33.448] <Wally>   (err) : save move: E3
+[2025-10-06 02:23:33.448] <Wally>   (err) : defend move: XX
+[2025-10-06 02:23:33.448] <Wally>   (err) : surround move: D5
+[2025-10-06 02:23:33.448] <Wally>   (err) : best move E3
+[2025-10-06 02:24:19.796] <Wally>    (in) : play W B3
+[2025-10-06 02:24:19.807] <Wally>   (out) : =
+[2025-10-06 02:24:19.807] <Wally>   (out) : 
+[2025-10-06 02:24:19.812] <Wally>    (in) : genmove B
+[2025-10-06 02:24:19.819] <Wally>   (out) : = E4
+[2025-10-06 02:24:19.819] <Wally>   (out) : 
+[2025-10-06 02:24:19.833] <Wally>   (err) : capture move XX
+[2025-10-06 02:24:19.833] <Wally>   (err) : save move: XX
+[2025-10-06 02:24:19.833] <Wally>   (err) : defend move: XX
+[2025-10-06 02:24:19.833] <Wally>   (err) : surround move: E4
+[2025-10-06 02:24:19.833] <Wally>   (err) : best move E4
+[2025-10-06 02:25:00.232] <Wally>    (in) : play W E5
+[2025-10-06 02:25:00.241] <Wally>   (out) : =
+[2025-10-06 02:25:00.242] <Wally>   (out) : 
+[2025-10-06 02:25:00.248] <Wally>    (in) : genmove B
+[2025-10-06 02:25:00.254] <Wally>   (out) : = F5
+[2025-10-06 02:25:00.254] <Wally>   (out) : 
+[2025-10-06 02:25:00.265] <Wally>   (err) : capture move XX
+[2025-10-06 02:25:00.266] <Wally>   (err) : save move: XX
+[2025-10-06 02:25:00.266] <Wally>   (err) : defend move: XX
+[2025-10-06 02:25:00.266] <Wally>   (err) : surround move: F5
+[2025-10-06 02:25:00.266] <Wally>   (err) : best move F5
+[2025-10-06 02:25:22.514] <Wally>    (in) : play W F6
+[2025-10-06 02:25:22.525] <Wally>   (out) : =
+[2025-10-06 02:25:22.525] <Wally>   (out) : 
+[2025-10-06 02:25:22.532] <Wally>    (in) : genmove B
+[2025-10-06 02:25:22.540] <Wally>   (out) : = G6
+[2025-10-06 02:25:22.541] <Wally>   (out) : 
+[2025-10-06 02:25:22.559] <Wally>   (err) : capture move XX
+[2025-10-06 02:25:22.559] <Wally>   (err) : save move: XX
+[2025-10-06 02:25:22.559] <Wally>   (err) : defend move: XX
+[2025-10-06 02:25:22.561] <Wally>   (err) : surround move: G6
+[2025-10-06 02:25:22.561] <Wally>   (err) : best move G6
+[2025-10-06 02:25:35.023] <Wally>    (in) : play W G7
+[2025-10-06 02:25:35.032] <Wally>   (out) : =
+[2025-10-06 02:25:35.032] <Wally>   (out) : 
+[2025-10-06 02:25:35.038] <Wally>    (in) : genmove B
+[2025-10-06 02:25:35.048] <Wally>   (out) : = G8
+[2025-10-06 02:25:35.048] <Wally>   (out) : 
+[2025-10-06 02:25:35.058] <Wally>   (err) : capture move XX
+[2025-10-06 02:25:35.058] <Wally>   (err) : save move: XX
+[2025-10-06 02:25:35.058] <Wally>   (err) : defend move: XX
+[2025-10-06 02:25:35.058] <Wally>   (err) : surround move: G8
+[2025-10-06 02:25:35.058] <Wally>   (err) : best move G8
+[2025-10-06 02:25:47.180] <Wally>    (in) : play W F8
+[2025-10-06 02:25:47.189] <Wally>   (out) : =
+[2025-10-06 02:25:47.190] <Wally>   (out) : 
+[2025-10-06 02:25:47.195] <Wally>    (in) : genmove B
+[2025-10-06 02:25:47.202] <Wally>   (out) : = H8
+[2025-10-06 02:25:47.202] <Wally>   (out) : 
+[2025-10-06 02:25:47.213] <Wally>   (err) : capture move XX
+[2025-10-06 02:25:47.214] <Wally>   (err) : save move: H8
+[2025-10-06 02:25:47.214] <Wally>   (err) : defend move: XX
+[2025-10-06 02:25:47.214] <Wally>   (err) : surround move: E8
+[2025-10-06 02:25:47.214] <Wally>   (err) : best move H8
+[2025-10-06 02:25:56.585] <Wally>    (in) : play W G9
+[2025-10-06 02:25:56.595] <Wally>   (out) : =
+[2025-10-06 02:25:56.595] <Wally>   (out) : 
+[2025-10-06 02:25:56.600] <Wally>    (in) : genmove B
+[2025-10-06 02:25:56.608] <Wally>   (out) : = H9
+[2025-10-06 02:25:56.608] <Wally>   (out) : 
+[2025-10-06 02:25:56.619] <Wally>   (err) : capture move XX
+[2025-10-06 02:25:56.619] <Wally>   (err) : save move: XX
+[2025-10-06 02:25:56.619] <Wally>   (err) : defend move: XX
+[2025-10-06 02:25:56.619] <Wally>   (err) : surround move: H9
+[2025-10-06 02:25:56.619] <Wally>   (err) : best move H9
+[2025-10-06 02:26:16.049] <Wally>    (in) : play W E1
+[2025-10-06 02:26:16.059] <Wally>   (out) : =
+[2025-10-06 02:26:16.060] <Wally>   (out) : 
+[2025-10-06 02:26:16.065] <Wally>    (in) : genmove B
+[2025-10-06 02:26:16.073] <Wally>   (out) : = F9
+[2025-10-06 02:26:16.073] <Wally>   (out) : 
+[2025-10-06 02:26:16.090] <Wally>   (err) : capture move F9
+[2025-10-06 02:26:16.091] <Wally>   (err) : save move: F9
+[2025-10-06 02:26:16.091] <Wally>   (err) : defend move: XX
+[2025-10-06 02:26:16.091] <Wally>   (err) : surround move: E8
+[2025-10-06 02:26:16.091] <Wally>   (err) : best move F9
+[2025-10-06 02:26:36.546] <Wally>    (in) : play W E9
+[2025-10-06 02:26:36.555] <Wally>   (out) : =
+[2025-10-06 02:26:36.555] <Wally>   (out) : 
+[2025-10-06 02:26:36.561] <Wally>    (in) : genmove B
+[2025-10-06 02:26:36.570] <Wally>   (out) : = G9
+[2025-10-06 02:26:36.570] <Wally>   (out) : 
+[2025-10-06 02:26:36.584] <Wally>   (err) : capture move XX
+[2025-10-06 02:26:36.584] <Wally>   (err) : save move: G9
+[2025-10-06 02:26:36.584] <Wally>   (err) : defend move: XX
+[2025-10-06 02:26:36.584] <Wally>   (err) : surround move: E8
+[2025-10-06 02:26:36.584] <Wally>   (err) : best move G9
+[2025-10-06 02:26:59.092] <Wally>    (in) : play W H7
+[2025-10-06 02:26:59.101] <Wally>   (out) : =
+[2025-10-06 02:26:59.101] <Wally>   (out) : 
+[2025-10-06 02:26:59.109] <Wally>    (in) : genmove B
+[2025-10-06 02:26:59.125] <Wally>   (out) : = J9
+[2025-10-06 02:26:59.125] <Wally>   (out) : 
+[2025-10-06 02:26:59.136] <Wally>   (err) : capture move XX
+[2025-10-06 02:26:59.136] <Wally>   (err) : save move: J9
+[2025-10-06 02:26:59.136] <Wally>   (err) : defend move: XX
+[2025-10-06 02:26:59.136] <Wally>   (err) : surround move: E8
+[2025-10-06 02:26:59.136] <Wally>   (err) : best move J9
+[2025-10-06 02:27:07.461] <Wally>    (in) : play W J8
+[2025-10-06 02:27:07.471] <Wally>   (out) : =
+[2025-10-06 02:27:07.471] <Wally>   (out) : 
+[2025-10-06 02:27:07.479] <Wally>    (in) : genmove B
+[2025-10-06 02:27:07.488] <Wally>   (out) : = E8
+[2025-10-06 02:27:07.488] <Wally>   (out) : 
+[2025-10-06 02:27:07.502] <Wally>   (err) : capture move XX
+[2025-10-06 02:27:07.502] <Wally>   (err) : save move: XX
+[2025-10-06 02:27:07.502] <Wally>   (err) : defend move: XX
+[2025-10-06 02:27:07.502] <Wally>   (err) : surround move: E8
+[2025-10-06 02:27:07.502] <Wally>   (err) : best move E8
+[2025-10-06 02:27:20.234] <Wally>    (in) : play W C7
+[2025-10-06 02:27:20.244] <Wally>   (out) : =
+[2025-10-06 02:27:20.244] <Wally>   (out) : 
+[2025-10-06 02:27:20.250] <Wally>    (in) : genmove B
+[2025-10-06 02:27:20.260] <Wally>   (out) : = E7
+[2025-10-06 02:27:20.260] <Wally>   (out) : 
+[2025-10-06 02:27:20.272] <Wally>   (err) : capture move XX
+[2025-10-06 02:27:20.272] <Wally>   (err) : save move: E7
+[2025-10-06 02:27:20.273] <Wally>   (err) : defend move: XX
+[2025-10-06 02:27:20.273] <Wally>   (err) : surround move: F9
+[2025-10-06 02:27:20.273] <Wally>   (err) : best move E7
+[2025-10-06 02:27:21.734] <Wally>    (in) : play W H3
+[2025-10-06 02:27:21.743] <Wally>   (out) : =
+[2025-10-06 02:27:21.743] <Wally>   (out) : 
+[2025-10-06 02:27:21.749] <Wally>    (in) : genmove B
+[2025-10-06 02:27:21.756] <Wally>   (out) : = F9
+[2025-10-06 02:27:21.756] <Wally>   (out) : 
+[2025-10-06 02:27:21.765] <Wally>   (err) : capture move XX
+[2025-10-06 02:27:21.766] <Wally>   (err) : save move: XX
+[2025-10-06 02:27:21.766] <Wally>   (err) : defend move: XX
+[2025-10-06 02:27:21.766] <Wally>   (err) : surround move: F9
+[2025-10-06 02:27:21.766] <Wally>   (err) : best move F9
+[2025-10-06 02:27:22.800] <Wally>    (in) : play W G9
+[2025-10-06 02:27:22.808] <Wally>   (out) : =
+[2025-10-06 02:27:22.808] <Wally>   (out) : 
+[2025-10-06 02:27:22.812] <Wally>    (in) : genmove B
+[2025-10-06 02:27:22.819] <Wally>   (out) : = A4
+[2025-10-06 02:27:22.820] <Wally>   (out) : 
+[2025-10-06 02:27:22.828] <Wally>   (err) : capture move XX
+[2025-10-06 02:27:22.828] <Wally>   (err) : save move: XX
+[2025-10-06 02:27:22.828] <Wally>   (err) : defend move: XX
+[2025-10-06 02:27:22.829] <Wally>   (err) : surround move: F9
+[2025-10-06 02:27:22.829] <Wally>   (err) : avoided suicide move, making rand instead
+[2025-10-06 02:27:23.549] <Wally>    (in) : play W H9
+[2025-10-06 02:27:23.557] <Wally>   (out) : =
+[2025-10-06 02:27:23.557] <Wally>   (out) : 
+[2025-10-06 02:27:23.563] <Wally>    (in) : genmove B
+[2025-10-06 02:27:23.569] <Wally>   (out) : = G2
+[2025-10-06 02:27:23.569] <Wally>   (out) : 
+[2025-10-06 02:27:23.577] <Wally>   (err) : capture move XX
+[2025-10-06 02:27:23.577] <Wally>   (err) : save move: XX
+[2025-10-06 02:27:23.577] <Wally>   (err) : defend move: XX
+[2025-10-06 02:27:23.577] <Wally>   (err) : surround move: F9
+[2025-10-06 02:27:23.577] <Wally>   (err) : avoided suicide move, making rand instead
